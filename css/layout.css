@@ -1,0 +1,61 @@
+.sect_art_hd_trailer .thumb {
+    float: left;
+    width: 299px;
+    height: 376px;
+    background: #000;
+    margin-right: 15px;
+}
+
+.sect_art_hd_trailer .player_area {
+    float: left;
+    position: relative;
+    width: 666px;
+    height: 376px;
+    background: #000;
+}
+
+.sect_art_hd_trailer .player_area > a {
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.sect_art_hd_trailer .thumb h3 {
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+
+h3 {
+    height: 41px;
+    margin: 30px 15px;
+    background: url(https://img.cgv.co.kr/r2014/images/common/bg/bg_h3_line.jpg) repeat-x 0 50%;
+    line-height: 41px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.wrap-movie-collage .sect-talkprogram h3 {
+    margin: 34px 0 15px 0;
+}
+
+.sect-talkprogram h3 {
+    margin: 0px 15px;
+}
+
+.sect-talkprogram {
+    margin: 50px 0 0 0;
+}
+
+
+
+h3 > img {
+    padding: 0 8px;
+    background-color: #fdfcf0;
+}
+

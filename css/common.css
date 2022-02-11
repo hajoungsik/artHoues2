@@ -1,0 +1,38 @@
+* {margin:0 auto;}
+
+
+#wrap {
+    width:1280px;
+    background-color:#eeeeee;
+    text-align:center;
+    position:relative;
+}
+
+img {border:0; margin:0;}
+
+
+#footerBox div {
+    justify-content: space-between;
+    background-color:white;
+    border:solid 1px white;
+    padding: 23px 0
+    margin: 0 auto;
+}
+
+
+#bottomMenuBox {
+    height:30px;
+    line-height:20px;
+}
+
+#bottomMenuBox li {
+    display:inline-block;
+    text-align:center;
+    padding:3px;
+    font-size: 13px;
+}
+
+#bottomMenuBox a {
+    color:black;
+    font-weight:bold;
+    text-decoration:none;
